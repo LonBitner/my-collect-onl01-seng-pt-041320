@@ -5,5 +5,5 @@ def my_collect(array)
     new_array << yeild(array[i])
   i += 1
   end
-  return new_array
+  new_array
 end
